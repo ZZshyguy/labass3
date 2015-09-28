@@ -1,0 +1,9 @@
+CS2010
+Lab Assignment 2
+Zachary Lapointe
+This program plays the dice game of Craps
+User must enter y or Y when prompted in program
+
+To compile, type make in terminal.
+Make sure current directory is Labass2.
+To run type ./Craps in terminal.
