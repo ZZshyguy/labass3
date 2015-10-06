@@ -1,0 +1,20 @@
+hi hello fuck fuck fuckfnjaofjfwegershgteagwsegrgsf
+
+// cout<<a[0]; will print string in first row (array) of a
+// for(i=0;i< NewWords; i++) cout<<a[i]<<endl; will print strings in the rows (arrays) of 
+
+/*
+	int i;
+	for(i=0;i<NumWords;i++)
+		if(!strcmp(a[i],buffer)){CNT[i]++;break;}; //Compares word in buffer to words in dictionary
+	if(i==NumWords){addwordto a[NumWords]; NumWords++;} //if word not found put it into array
+*/
+
+Different output
+
+for(i=0; i<5; i++)
+{
+	cout<<dictionary[i];
+	for(j=0; j< 20- strlen(dic[i]); j++) cout<< ' ';
+	cout<<CNT[i]<<endl;
+}

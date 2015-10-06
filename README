@@ -1,9 +1,12 @@
 CS2010
-Lab Assignment 2
+Lab Assignment 3
 Zachary Lapointe
-This program plays the dice game of Craps
-User must enter y or Y when prompted in program
+This program will create a dictionary of words found in a file
+Maximum uniques words is 10
+Max length of each word is 20
 
 To compile, type make in terminal.
-Make sure current directory is Labass2.
-To run type ./Craps in terminal.
+Make sure current directory is Labass3.
+To run type:            ./Dictionary
+To input a file type:   ./Dictionary < test
+where test is the file with your input
