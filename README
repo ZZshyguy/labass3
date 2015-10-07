@@ -3,7 +3,7 @@ Lab Assignment 3
 Zachary Lapointe
 This program will create a dictionary of words found in a file
 Maximum uniques words is 10
-Max length of each word is 20
+Max length of each word is 19
 
 To compile, type make in terminal.
 Make sure current directory is Labass3.
